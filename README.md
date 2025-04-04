@@ -1,7 +1,7 @@
 
 <img src='./cover.png'/>
-https://skillicons.dev/icons?i=html,css,cs,dotnet,visualstudio,vscode,github
-<img src=''/>
+
+<img src='https://skillicons.dev/icons?i=html,css,cs,dotnet,visualstudio,vscode,github'/>
 
 <!--
 **hheydarian/hheydarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
