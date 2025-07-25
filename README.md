@@ -11,6 +11,8 @@
 <div align="center">
   
 ![Hamed Heydarian's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hheydarian&bg_color=000000&color=58a6ff&line=8000ff&point=00ff7f&area=true&hide_border=false)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hheydarian&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=hheydarian&show_icons=true&theme=midnight-purple" width="450"/> <br>
