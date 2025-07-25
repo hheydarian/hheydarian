@@ -8,13 +8,16 @@
 
 
 <!---### 📊 Stats--->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hheydarian&show_icons=true&theme=midnight-purple" width="450"/>
+<div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hheydarian&theme=midnight-purple" width="450"/>
+  ![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hheydarian&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
   
+</div>
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=hheydarian&show_icons=true&theme=midnight-purple" width="450"/> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hheydarian&theme=midnight-purple" width="450"/> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hheydarian&layout=compact&theme=midnight-purple" width="400" />
-</p>
+</div>
 
 <!---
 <picture>
