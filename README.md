@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"><br>
 
 <!-- Top Banner (Responsive) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hamed%20Heydarian!&fontAlign=80&fontAlignY=40&color=gradient" alt="Welcome Banner"/><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hamed%20Heydarian!&fontAlign=40&fontAlignY=40&color=gradient" alt="Welcome Banner"/><br>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" /><br>
 
 <!---### 📊 Stats--->
